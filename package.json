@@ -1,5 +1,5 @@
 {
-  "name": "simple-goals",
+  "name": "electron-react-typescript-template",
   "version": "0.1.0",
   "main": "public/electron.ts",
   "private": true,
